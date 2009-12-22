@@ -15,9 +15,9 @@ test:
   pool: 5
   timeout: 5000
 
-production:
-  adapter: mysql
-  database: conferance_production
-  username: conferance
-  password: secret
-  host:localhost
+#production:
+#  adapter: mysql
+#  database: conferance_production
+#  username: conferance
+#  password: secret
+#  host:localhost
